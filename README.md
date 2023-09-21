@@ -1,8 +1,7 @@
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=domenpigeon&show_icons=true&include_all_commits=true" height="150"/>
+
 <a href="https://github.com/domenpigeon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=domenpigeon&show_icons=true&include_all_commits=true" height="150"/>
-</a>
-<a href="https://github.com/domenpigeon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domenpigeon&layout=compact" height="150"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridermansb&layout=compact&langs_count=8"/>
 </a>
 
 
